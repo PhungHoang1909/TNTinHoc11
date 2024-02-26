@@ -148,10 +148,10 @@
             // 
             this.btthoat.BackColor = System.Drawing.Color.Transparent;
             this.btthoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btthoat.Location = new System.Drawing.Point(482, 388);
+            this.btthoat.Location = new System.Drawing.Point(482, 351);
             this.btthoat.Margin = new System.Windows.Forms.Padding(4);
             this.btthoat.Name = "btthoat";
-            this.btthoat.Size = new System.Drawing.Size(155, 48);
+            this.btthoat.Size = new System.Drawing.Size(155, 85);
             this.btthoat.TabIndex = 3;
             this.btthoat.Text = "Thoát";
             this.btthoat.UseVisualStyleBackColor = false;
